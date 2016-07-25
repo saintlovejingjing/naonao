@@ -1,2 +1,1 @@
-# naonao
-I like Bear
+#include<iostream>
